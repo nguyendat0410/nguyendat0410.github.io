@@ -8,6 +8,7 @@ Website của Nguyễn Đạt
 
 
 ## DEMO UML
+
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -26,3 +27,4 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
