@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.getflyvn.crm",
+    "sha256_cert_fingerprints":
+    ["31:54:CF:DB:D1:8F:23:E3:DD:EE:32:AB:E3:8C:F4:67:A6:D1:21:FE:F4:B2:0C:09:78:DA:F4:CE:BB:2F:AE:46"]
+  }
+}]
